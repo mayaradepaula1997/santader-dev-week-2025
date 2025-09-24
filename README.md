@@ -1,11 +1,11 @@
-# 📌 Projeto Banco - Sistema de Usuários
+#  Projeto Banco - Sistema de Usuários
 
 Este projeto implementa um sistema simples de banco digital, contendo usuários, contas, cartões, funcionalidades extras e notícias vinculadas.  
 O modelo foi construído a partir de um **diagrama de classes UML**.
 
 ---
 
-## 🏗️ Estrutura de Classes
+##  Estrutura de Classes
 
 ### **User**
 - `String name` – Nome do usuário  
@@ -54,7 +54,7 @@ O modelo foi construído a partir de um **diagrama de classes UML**.
 
 ---
 
-## 📊 Diagrama de Classes (Mermaid)
+##  Diagrama de Classes (Mermaid)
 
 ```mermaid
 classDiagram
